@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
+html, body{
    background-image: linear-gradient(45deg, cyan, yellow);
 }
 
