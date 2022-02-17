@@ -5,7 +5,7 @@
 }
 
 body{
-   background-color: aqua; 
+   background-image: linear-gradient(cyan yellow);
 }
 
 .main{
